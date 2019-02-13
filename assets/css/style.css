@@ -6,7 +6,7 @@ html{
 body {
   margin: 110px auto 50px auto;
   padding: 0;
-  background-image:url("/Users/busybee/UCLA/Homework/Assignment2/Bootstrap-Portfolio/assets/images/hypnotize.png");
+  background-image:url("../images/hypnotize.png");
   background-size: inherit;
   position: relative;
   min-height: 100%;
