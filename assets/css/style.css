@@ -3,10 +3,12 @@ html{
     height: 100%;
 }
 
+
+/* Cannot get background image to work unless it uses my local directory, and it only works on my local computer */
 body {
   margin: 110px auto 50px auto;
   padding: 0;
-  background-image:url("../images/hypnotize.png");
+  background-image:url("../images/hypnotize.png"); 
   background-size: inherit;
   position: relative;
   min-height: 100%;
